@@ -50,8 +50,8 @@ void avg_calc( ifstream& file )
 	        while( file >> v )
             {
 	            V.push_back(v); //input data by appended vector V
-                break;
-	        }
+                    break;
+	     }
         }
         else
             file.ignore(); //skips over character if it's not a double
