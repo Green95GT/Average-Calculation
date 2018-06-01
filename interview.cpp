@@ -1,6 +1,3 @@
-/* Data Structures: Interview Problem */
-/* Philip Stathos */
-
 #include <iostream>
 #include <fstream>
 #include <vector>
